@@ -34,7 +34,7 @@ HTML::Builder.new.build do
     text "crystal is awesome"
   end
 end # => "<a href="google.com">crystal is awesome</a>
-
+```
 
 ## Contributing
 
